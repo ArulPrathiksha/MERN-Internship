@@ -1,4 +1,4 @@
-/**************ARRAY CALLBACK METHODS****************
+//**************ARRAY CALLBACK METHODS****************
 //1.forEach()
 let arr=["Vijay","NP","Trisha","Preetha"]
 let num=[1,2,3,4,5]
